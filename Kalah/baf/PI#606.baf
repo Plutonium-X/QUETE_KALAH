@@ -1,0 +1,26 @@
+IF
+  OnCreation()
+THEN
+  RESPONSE #100
+    TriggerActivation("TRAN0605",FALSE)
+    CreateCreature("PI#KALAH",[475.390],12)
+    CreateCreature("KSHADOW",[485.150],12)
+    CreateCreature("KSHADOW",[320.315],12)
+    CreateCreature("KWEREWL",[700.400],12)
+    CreateCreature("PI#Quaym",[615.440],12)
+
+
+END
+
+IF
+  Dead("PI#KalahIllus")
+  Global("pi#kalil","GLOBAL",0)
+THEN
+  RESPONSE #100
+    ClearAllActions()
+    StartCutSceneMode()
+    StartCutScene("pi#kalil")
+END
+
+
+

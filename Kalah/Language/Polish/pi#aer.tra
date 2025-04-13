@@ -1,0 +1,93 @@
+@0    = ~Witaj.~
+@1    = ~Pozwól, mi równie¿ przywitaæ ciê w królestwie Kalaha. Ukoñczy³eœ próbê rozumu Teraz czas na próbê mêstwa.~~ Pozwól, mi równie¿ przywitaæ ciê w królestwie Kalaha. Ukoñczy³aœ próbê rozumu Teraz czas na próbê mêstwa.~
+@2    = ~Spójrz, oto przed tob¹ stoj¹ dwa demony. A przynajmniej wydaj¹ siê byæ demonami, prawda?~
+@3    = ~Jeden z nich jest prawdziwym demonem, który jest w stanie zabiæ nas wszystkich bez wiêkszego problemu.~
+@4    = ~Drugi demon nie jest demonem. To Ksiê¿niczka któr¹ bêdziesz mia³ okazjê wyzwoliæ spod zaklêcia, które na³o¿y³ na ni¹ Kalah.~~Drugi demon nie jest demonem. To Ksiê¿niczka któr¹ bêdziesz mia³a okazjê wyzwoliæ spod zaklêcia, które na³o¿y³ na ni¹ Kalah.~
+@5    = ~Co mam zrobiæ?~
+@6    = ~Dlaczego Kalah przemieni³ Ksiê¿niczkê w demona?~
+@7    = ~To g³upie... Takie rzeczy zdarzaj¹ siê tylko w bajkach. Nie mam zamiaru braæ w tym udzia³u.~
+@8    = ~Kalah przewidzia³, i¿ jesteœ osob¹ praw¹ i szlachetn¹. Dlatego wpuœci³ ciê do swego królestwa.~
+@9    = ~Pierwszym zadaniem bêdzie odzyskanie klucza, który umo¿liwi uwolnienie ksiê¿niczki. Klucz znajduje siê w posiadaniu potwora.~
+@10   = ~Dziêki dobroci Kalaha, nie bêdziesz musia³ zmierzyæ siê ze smokiem. Lecz potwora, który posiad³ klucz musisz znaleŸæ na w³asn¹ rêkê.~~Dziêki dobroci Kalaha, nie bêdziesz musia³a zmierzyæ siê ze smokiem. Lecz potwora, który posiad³ klucz musisz znaleŸæ na w³asn¹ rêkê.~
+@11   = ~Jak wygl¹da ów klucz?~
+@12   = ~W takim razie ruszê, by zniszczyæ potwora.~
+@13   = ~Zbadaj Namiot Cyrkowy.
+W kolejnym pomieszczeniu napotkaliœmy dwa demony, i kobietê, która znowu powo³ywa³a siê na Kalaha. Powiedzia³a nam, ¿e jeden z tych demonów jest w rzeczywistoœci ksiê¿niczk¹, a my mozemy j¹ uratowaæ. Zgodziliœmy siê pomóc, wiêc polecono nam zdobyæ klucz bêd¹cy w posiadaniu potwora.~
+@14   = ~Nie kwestionuj decyzji Kalaha. Z jego rozkazu ten, który uwolni ksiê¿niczkê spod wp³ywu zaklêcia, bêdzie móg³ wzi¹æ j¹ za ¿onê~~ Nie kwestionuj decyzji Kalaha. Z jego rozkazu ta osoba, która uwolni ksiê¿niczkê spod wp³ywu zaklêcia, bêdzie móg³ wzi¹æ j¹ za ¿onê. Jako, ¿e jesteœ kobiet¹, i zapewne nie gustujesz w ma³¿eñstwach z ksiê¿niczkami, Kalah nagrodzi ciê po³ow¹ królestwa.~
+@15   = ~Po prostu wydaje mi siê to trochê nielogiczne. Czemu wielki, i wspania³y Kalah przetrzymuje tu tê ksiê¿niczkê?~
+@16   = ~Dobra, dobra, nie narzekam ju¿ wiêcej... Co mam zrobiæ?~
+@17   = ~Doœæ, nie pozwolê na to, byœ kala³ imiê Wielkiego Kalaha, kwestionuj¹c jego decyzje.Czas zap³aciæ za swoje s³owa.~~Doœæ, nie pozwolê na to, byœ kala³a imiê Wielkiego Kalaha, kwestionuj¹c jego decyzje.Czas zap³aciæ za swoje s³owa.~
+@18   = ~Zbadaj Namiot Cyrkowy.
+W kolejnym pomieszczeniu napotkaliœmy dwa demony, i kobietê, która znowu powo³ywa³a siê na Kalaha. Powiedzia³a nam, ¿e jeden z tych demonów jest w rzeczywistoœci ksiê¿niczk¹, a my mozemy j¹ uratowaæ. Kiedy stwierdziliœmy, ¿e to g³upie, demony i ich stra¿nik zmienili siê w cienie, i zaatakowali nas. Czujê siê jak w jakiejœ pokrêconej wersji jednej z baœni, które opowiada³mi Gorion.~
+@19   = ~Je¿eli uwa¿asz, ¿e nie dasz rady samodzielnie znaleŸæ tego klucza, nie ma sensu, ¿ebyœ próbowa³. Lepiej odejdŸ, sk¹d przyszed³eœ.~~ Je¿eli uwa¿asz, ¿e nie dasz rady samodzielnie znaleŸæ tego klucza, nie ma sensu, ¿ebyœ próbowa³a. Lepiej odejdŸ, sk¹d przysz³aœ.~
+@20   = ~Zaczekaj, poradzê sobie. Ruszam, aby zabiæ tego potwora.~
+@21   = ~Próbujesz wybadaæ, czy to Ksiê¿niczka, czy demon? Niestety, ta istota nic ci nie powie. Moc¹ zaklêcia Kalaha znajduje siê w g³êbokim œnie.~
+@22   = ~Zreszt¹, na razie jeszcze nie czas na to, byœ siê tym zajmowa³. Czy nie kaza³am ci zrobiæ czegoœ innego?~
+@23   = ~Czy uda³o ci siê odnaleŸæ klucz?~
+@24   = ~Nadal szukam.~
+@25   = ~Pokona³em potwora, lecz ten nie mia³ przy sobie ¿adnego klucza.~~Pokona³am potwora, lecz ten nie mia³ przy sobie ¿adnego klucza.~
+@26   = ~Napotka³em paj¹ka, lecz twierdzi³ on, ¿e nie jest on potworem.~~Napotka³am paj¹ka, lecz twierdzi³ on, ¿e nie jest on potworem.~
+@27   = ~Czy czegoœ ciê to nauczy³o?~
+@28   = ~¯e Kalah jest k³amc¹, i nie nale¿y wierzyæ jego s³owom?~
+@29   = ~¯e klucz od pocz¹tku znajdowa³ siê w moich rêkach? Kluczem jest pos³uszeñstwo wobec Kalaha?~
+@30   = ~Kluczem mia³o byæ oczyszczenie œwiata z potworów? Mia³em oczyœciæ królestwo Kalaha, je¿eli niemo¿liwe jest oczyszczenie ca³ego œwiata?~~Kluczem mia³o byæ oczyszczenie œwiata z potworów? Mia³am oczyœciæ królestwo Kalaha, je¿eli niemo¿liwe jest oczyszczenie ca³ego œwiata?~
+@31   = ~Najpierw ja ciê o coœ spytam. Paj¹k twierdzi³, ¿e w rzeczywistoœci nie jest paj¹kiem, czy to prawda?~
+@32   = ~Czegoœ ciê to jednak nauczy³o. Brawo. Czas na kolejne zadanie. Je¿eli jesteœ w stanie uwolniæ ksiê¿niczkê, musisz najpierw siê dowiedzieæ, która z tych istot jest prawdziw¹ ksiê¿niczk¹, a która demonem.~
+@33   = ~Domyœlam siê, ¿e Kalah znowu mi nie pomo¿e?~
+@34   = ~Jak mam siê tego dowiedzieæ?~
+@35   = ~Doœæ tego. Nie mam zamiaru d³u¿ej bawiæ siê w te gierki. Niech ktoœ inny uratuje ksiê¿niczkê.~
+@36   = ~Kalah sam potrafi uczyniæ œwiat doskona³ym. Widzê, ¿e nic siê nie nauczy³eœ...~~ Kalah sam potrafi uczyniæ œwiat doskona³ym. Widzê, ¿e nic siê nie nauczy³aœ...~
+@37   = ~Czekaj, chyba wiem.~
+@38   = ~Doœæ tego. Nie mam zamiaru d³u¿ej bawiæ siê w te gierki. Niech ktoœ inny uratuje ksiê¿niczkê.~
+@39   = ~Œmiesz kwestionowaæ s³owa Kalaha?~
+@40   = ~Coœ mi siê tu po prostu nie zgadza.~
+@41   = ~Sk¹d¿e znowu, pomyœla³em tylko, ¿e mo¿e to nie o tego potwora chodzi³o.~~Sk¹d¿e znowu, pomyœla³am tylko, ¿e mo¿e to nie o tego potwora chodzi³o.~
+@42   = ~Kalah ma swój cel w wystawianiu ciê na ci¹g³e próby. Rusz tedy, by zdobyæ wiedzê, która z tych istot jest ksiê¿niczk¹.~
+@43   = ~W królestwie Kalaha przebywaj¹ ci, którzy wiedz¹. OdnajdŸ ich, i przekonaj ich do pomocy. Nastêpnie, kiedy ju¿ uzyskasz wiedzê, powróæ tu.~
+@44   = ~Zbadaj Namiot Cyrkowy.
+OdnaleŸliœmy klucz (Który w rzeczywistoœci nie by³ kluczem.), ale to nie koniec prób. Stra¿niczka poleci³a nam dowiedzieæ siê, w jaki sposób mo¿na rozpoznaæ prawdziw¹ ksiê¿niczkê. Nie powiedzia³a tylko JAK mamy siê tego dowiedzieæ.~
+@45   = ~Rozwi¹za³eœ pierwsze zadanie. Pozbawi³eœ kolejnych œmia³ków mo¿liwoœci zmierzenia siê z potworem. Teraz zginiesz, a po œmierci staniesz siê nieumar³¹ istot¹, która bêdzie przeciwnikiem dla œmia³ków.~~ Rozwi¹za³aœ pierwsze zadanie. Pozbawi³aœ kolejnych œmia³ków mo¿liwoœci zmierzenia siê z potworem. Teraz zginiesz, a po œmierci staniesz siê nieumar³¹ istot¹, która bêdzie przeciwnikiem dla œmia³ków.~
+@46   = ~Zbadaj Namiot Cyrkowy.
+Kiedy stwierdziliœmy, ¿e próby zorganizowane przez Kalaha s¹ g³upie, i ¿e nie mamy zamiaru braæ w tym udzia³u, stra¿niczka powiedzia³a nam, ¿e to my, kiedy umrzemy, bêdziemy potworem dla nastêpnych œmia³ków. Po czym zmieni³a siê w cieñ, i zaatakowa³a nas.~
+@47   = ~Có¿ wiêc chcesz powiedzieæ?~
+@48   = ~Decyzja nale¿y do ciebie. IdŸ, i pokonaj bestiê, któr¹ uznasz za w³aœciw¹, a nastêpnie powróæ tu z kluczem.~
+@49   = ~S³ysza³am krzyki niewinnych dobiegaj¹ce z odddali. Zabi³eœ ich? Prawda? Wiedza niezbêdna do ocalenia ksiê¿niczki przepad³a.~~S³ysza³am krzyki niewinnych dobiegaj¹ce z odddali. Zabi³aœ ich? Prawda? Wiedza niezbêdna do ocalenia ksiê¿niczki przepad³a.~
+@50   = ~Sprzymierzasz siê z potworami, i mordujesz wieœniaków? Je¿eli zdecydowa³eœ siê odwróciæ sens bajki, to nadszed³ czas, ¿eby ksiê¿niczka pokona³a ksiêcia, czy¿ nie?~~ Sprzymierzasz siê z potworami, i mordujesz wieœniaków? Je¿eli zdecydowa³aœ siê odwróciæ sens bajki, to nadszed³ czas, ¿eby ksiê¿niczka pokona³a g³ówn¹ bohaterkê, czy¿ nie?~
+@51   = ~Ale...~
+@52   = ~Zbadaj Namiot Cyrkowy.
+Potwór, który nie jest potworem nadal ¿yje, a wieœniacy, którzy zaatakowali nas, zginêli. Kiedy stra¿niczka siê o tym dowiedzia³a, zaczê³a coœ krzyczeæ, o odwracaniu sensu bajki, i zaatakowa³a nas.~
+@53   = ~Przecie¿...~
+@54   = ~Kalah przekona³ siê, ¿e jedyn¹ rzecz¹ na której ci zale¿y, s¹ morderstwa. Jednakowo¿ nie mo¿na pozwoliæ, byœ mordowa³ wszystko we w³oœciach Kalaha. Czeka ciê kara.~~ Kalah przekona³ siê, ¿e jedyn¹ rzecz¹ na której ci zale¿y, s¹ morderstwa. Jednakowo¿ nie mo¿na pozwoliæ, byœ mordowa³a wszystko we w³oœciach Kalaha. Czeka ciê kara.~
+@55   = ~Zbadaj Namiot Cyrkowy.
+Potwór, który nie jest potworem nie ¿yje, ale wieœniacy, którzy zaatakowali nas, równie¿ zginêli. Kiedy stra¿niczka siê o tym dowiedzia³a, zaczê³a coœ krzyczeæ, o karze, która nas czeka, i zaatakowa³a nas.~
+@56   = ~Przyszed³eœ tu, i od razu zacz¹³eœ mordowaæ. Kalah nie mo¿e ci na to pozwoliæ. Czeka ciê kara.~~ Przysz³aœ tu, i od razu zaczê³aœ mordowaæ. Kalah nie mo¿e ci na to pozwoliæ. Czeka ciê kara.~
+@57   = ~(Demon zdaje siê nie zauwa¿aæ twojej obecnoœci. Zwraca siê za to do ciebie istota, która przywita³a ciê po przybyciu tutaj.)~
+@58   = ~My ty nie lubiæ. My biæ.~
+@59   = ~Nie, proszê, nie krzywdŸ mnie.~
+@60   = ~Co? Potwór, który mówi? Muszê ciê zabiæ, ¿eby odzyskaæ klucz.~
+@61   = ~Oddaj mi klucz, którego pilnujesz, a pozwolê ci ¿yæ.~
+@62   = ~Przyszed³em tutaj, ¿eby zabraæ z twoich wnêtrznoœci klucz, który jest mi potrzebny.~
+@63   = ~Ja... ja nie jestem potworem...~
+@64   = ~Jesteœ olbrzymim paj¹kiem,takim samym jak te, które napotka³em na swojej drodze... Czym jesteœ, jeœli nie potworem?~~Jesteœ olbrzymim paj¹kiem,takim samym jak te, które napotka³am na swojej drodze... Czym jesteœ, jeœli nie potworem?~
+@65   = ~Doœæ tego. Umrzesz, a ja zdobêdê klucz.~
+@66   = ~Zbadaj Namiot Cyrkowy.
+Zabiliœmy potwora. Niestety, nie mia³ on ¿adnego klucza. Mo¿e powinniœmy porozmawiaæ o tym ze stra¿niczk¹?~
+@67   = ~Oddaj mi klucz, który znajduje siê w twoim posiadaniu, a pozwolê ci ¿yæ.~
+@68   = ~Klucz? Nie mam ¿adnego klucza. Ja... Nie wiem jak siê tu znalaz³am... By³am w cyrku... i...~
+@69   = ~Doœæ tego. Umrzesz, a ja zdobêdê klucz.~
+@70   = ~Dlaczego mam ci wierzyæ?~
+@71   = ~Ja.. Przysz³am do cyrku na przedstawienie... i... nagle sta³am siê tym...~
+@72   = ~Potrzebujê klucza, który podobno mia³aœ mieæ. Daj mi go.~
+@73   = ~Nie wierzê ci. Giñ.~
+@74   = ~Proszê ciê. Nie wiem jak ciê przekonaæ.~
+@75   = ~Wygl¹da na to, ¿e faktycznie nie jesteœ potworem, którego polecono mi zabiæ. Ale nadal muszê znaleŸæ potwora, który ma klucz. Mo¿esz mi pomóc?~
+@76   = ~Nie masz dowodów na poparcie swoich s³ów... Sk¹d mam wiedzieæ, ¿e gdy siê do ciebie obrócê plecami, nie zaatakujesz mnie? Nie mogê ci na to pozwoliæ. Giñ.~
+@77   = ~Jedynym potworem, jaki tu przebywa jest sprawca tego wszystkiego. Innych potworów nie jestem w stanie wskazaæ.~
+@78   = ~Có¿, dziêki i za te s³owa. ¯egnaj.~
+@79   = ~Zbadaj Namiot Cyrkowy.
+Spotkaliœmy potwora. Ten, nie doœæ, ¿e nie zaatakowa³ nas, to jeszcze zacz¹³ b³agaæ nas o oszczêdzenie jego ¿ycia, i zaklina³ siê, ¿e w rzeczywistoœci nie jest potworem. Postanowiliœmy darowaæ mu ¿ycie. To wszystko robi siê coraz dziwniejsze.~
+@80   = ~Chyba jednak sprawdzê, czy przy twoim truchle nie znajdê klucza.~
+@81   = ~To.. To znowu ty... Czego tu szukasz?~
+@82   = ~Nic, tylko têdy przechodzi³em.~~Nic, tylko têdy przechodzi³am.~
+@83   = ~Zdecydowa³em, ¿e sprawdzê, czy nie masz przy sobie klucza.~~Zdecydowa³am, ¿e sprawdzê, czy nie masz przy sobie klucza.~
+@84   = ~Nie, proszê nie krzywdŸ mnie.~

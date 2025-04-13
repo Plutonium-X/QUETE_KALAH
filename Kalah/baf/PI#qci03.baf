@@ -1,0 +1,8 @@
+IF
+Global("FakeEnd","PI#607",4)
+THEN RESPONSE #100
+Polymorph(SHADOW)
+Enemy()
+Attack(NearestEnemyOf(Myself))
+SetGlobal("FakeEnd","PI#607",5)
+END

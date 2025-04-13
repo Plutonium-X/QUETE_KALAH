@@ -1,0 +1,15 @@
+
+
+IF
+  Global("PI#o1","PI#607",0)
+THEN
+  RESPONSE #100
+    CreateCreature("PI#Qua",[332.299],0)
+    CreateCreature("PI#qci01",[399.205],0)
+    CreateCreature("PI#qci02",[699.253],2)
+    CreateCreature("PI#qci03",[690.506],4)
+    CreateCreature("PI#KALA2",[366.563],0)
+    FadeFromColor([40.0],0)
+  SetGlobal("PI#o1","PI#607",1)
+END
+

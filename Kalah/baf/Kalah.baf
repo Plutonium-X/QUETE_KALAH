@@ -1,0 +1,127 @@
+IF
+  Global("KalahBehavior","LOCALS",0)
+  See("quaylem")
+  HaveSpell(WIZARD_MAGIC_MISSILE)
+  Delay(2)
+THEN
+  RESPONSE #100
+  ReallyForceSpell(Myself,WIZARD_IMPROVED_INVISIBILITY)
+  ReallyForceSpell(Myself,WIZARD_MIRROR_IMAGE)
+  ReallyForceSpell(Myself,WIZARD_BLUR)
+    Spell("quaylem",WIZARD_MAGIC_MISSILE)
+    SetGlobal("KalahBehavior","LOCALS",1)
+END
+
+IF
+  Global("KalahBehavior","LOCALS",1)
+  See([PC])
+  HaveSpell(WIZARD_MAGIC_MISSILE)
+  Delay(2)
+THEN
+  RESPONSE #100
+    Spell(NearestEnemyOf(Myself),WIZARD_MAGIC_MISSILE)
+    SetGlobal("KalahBehavior","LOCALS",2)
+END
+
+IF
+  Global("KalahBehavior","LOCALS",2)
+  HaveSpell(WIZARD_MONSTER_SUMMONING_1)
+THEN
+  RESPONSE #100
+  Spell([ANYONE],WIZARD_MONSTER_SUMMONING_1)
+  SetGlobal("KalahBehavior","LOCALS",3)
+END
+
+ IF
+  Global("KalahBehavior","LOCALS",3)
+THEN
+      RESPONSE #100
+  ReallyForceSpell(Myself,WIZARD_IMPROVED_INVISIBILITY)
+  ForceSpell(Player1,WIZARD_STINKING_CLOUD)
+  SetGlobal("KalahBehavior","LOCALS",4)
+  END
+  IF
+  HaveSpell(WIZARD_MAGIC_MISSILE)
+  THEN
+      RESPONSE #100
+    Spell(NearestEnemyOf(Myself),WIZARD_MAGIC_MISSILE)
+  END
+
+  IF Global("KalahBehavior","LOCALS",4)
+  !HaveSpell(WIZARD_MAGIC_MISSILE)
+  THEN
+  RESPONSE #100
+
+  AttackReevaluate(NearestEnemyOf(Myself),30)
+  END
+
+IF
+  Die()
+  HasItem("misc4q",Player1)
+THEN
+  RESPONSE #100
+    TakePartyItem("misc4q")
+    DestroyItem("misc4q")
+    GiveItemCreate("key08",Player1,0,0,0)
+END
+
+IF
+  Die()
+  HasItem("misc4q",Player2)
+THEN
+  RESPONSE #100
+    TakePartyItem("misc4q")
+    DestroyItem("misc4q")
+    GiveItemCreate("key08",Player2,0,0,0)
+END
+
+IF
+  Die()
+  HasItem("misc4q",Player3)
+THEN
+  RESPONSE #100
+    TakePartyItem("misc4q")
+    DestroyItem("misc4q")
+    GiveItemCreate("key08",Player3,0,0,0)
+END
+
+IF
+  Die()
+  HasItem("misc4q",Player4)
+THEN
+  RESPONSE #100
+    TakePartyItem("misc4q")
+    DestroyItem("misc4q")
+    GiveItemCreate("key08",Player4,0,0,0)
+END
+
+IF
+  Die()
+  HasItem("misc4q",Player5)
+THEN
+  RESPONSE #100
+    TakePartyItem("misc4q")
+    DestroyItem("misc4q")
+    GiveItemCreate("key08",Player5,0,0,0)
+END
+
+IF
+  Die()
+  HasItem("misc4q",Player6)
+THEN
+  RESPONSE #100
+    TakePartyItem("misc4q")
+    DestroyItem("misc4q")
+    GiveItemCreate("key08",Player6,0,0,0)
+END
+
+IF
+  Die()
+  HasItem("misc4q","aerie")
+  !InParty("aerie")
+THEN
+  RESPONSE #100
+    ActionOverride("aerie",DestroyItem("misc4q"))
+    GiveItemCreate("key08","aerie",0,0,0)
+END
+

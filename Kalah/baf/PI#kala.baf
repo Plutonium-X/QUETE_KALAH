@@ -1,0 +1,30 @@
+IF
+  Global("KalahBehavior","LOCALS",0)
+  See("PI#Quaym")
+  HaveSpell(WIZARD_MAGIC_MISSILE)
+  Delay(5)
+THEN
+  RESPONSE #100
+    Spell("PI#Quaym",WIZARD_MAGIC_MISSILE)
+    SetGlobal("KalahBehavior","LOCALS",1)
+END
+
+IF
+  Global("KalahBehavior","LOCALS",1)
+  See([PC])
+  HaveSpell(WIZARD_MAGIC_MISSILE)
+  Delay(5)
+THEN
+  RESPONSE #100
+    Spell([ANYONE],WIZARD_MAGIC_MISSILE)
+    SetGlobal("KalahBehavior","LOCALS",2)
+END
+
+IF
+  Global("KalahBehavior","LOCALS",2)
+  See(NearestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackReevaluate(NearestEnemyOf(Myself),15)
+    SetGlobal("KalahBehavior","LOCALS",0)
+END

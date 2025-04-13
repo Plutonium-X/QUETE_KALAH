@@ -1,0 +1,15 @@
+IF
+HP(Myself,1)
+THEN RESPONSE #100
+DestroyAllEquipment()
+Attack(NearestEnemyOf(Myself))
+END
+
+IF
+Global("PI#ilusion1","GLOBAL",1)
+THEN RESPONSE #100
+Enemy()
+Wait(1)
+Polymorph(SHADOW)
+Attack(NearestEnemyOf(Myself))
+END

@@ -1,0 +1,32 @@
+IF
+NumTimesTalkedTo(0)
+See([PC])
+THEN RESPONSE #100
+StartDialogueNoSet([PC])
+END
+
+IF
+See(NearestEnemyOf(Myself))
+Global("Pi#Gen","LOCALS",0)
+THEN RESPONSE #100
+SetGlobal("Pi#Gen","LOCALS",1)
+CreateCreature("pi#shad",[402.2093],1)
+CreateCreature("pi#shad",[526.2157],1)
+CreateCreature("pi#shad",[402.2093],1)
+CreateCreature("pi#shad",[526.2157],1)
+CreateCreature("pi#shad",[1160.1587],1)
+CreateCreature("pi#shad",[1260.1646],1)
+CreateCreature("pi#shad",[1160.1587],1)
+CreateCreature("pi#shad",[1260.1646],1)
+CreateCreature("pi#shad",[402.2093],1)
+CreateCreature("pi#shad",[526.2157],1)
+CreateCreature("pi#shad",[402.2093],1)
+CreateCreature("pi#shad",[526.2157],1)
+CreateCreature("pi#shad",[1160.1587],1)
+CreateCreature("pi#shad",[1260.1646],1)
+CreateCreature("pi#shad",[1160.1587],1)
+CreateCreature("pi#shad",[1260.1646],1)
+ForceSpell(Myself,DRYAD_TELEPORT)
+END
+
+

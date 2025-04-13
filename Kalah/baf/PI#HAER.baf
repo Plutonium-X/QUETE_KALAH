@@ -1,0 +1,21 @@
+IF
+AreaCheck("AR0600")
+InParty(Myself)
+Global("PI#CircusComment","GLOBAL",0)
+THEN RESPONSE #100
+SetGlobal("PI#CircusComment","GLOBAL",1)
+RealSetGlobalTimer("PI#Circus","GLOBAL",5)
+END
+
+IF
+Global("PI#CircusComment","GLOBAL",1)
+AreaCheck("AR0600")
+RealGlobalTimerExpired ("PI#Circus","GLOBAL")
+!InParty("Yoshimo")
+THEN
+RESPONSE #100
+MoveToObject(Player1)
+Dialogue(Player1)
+END
+
+

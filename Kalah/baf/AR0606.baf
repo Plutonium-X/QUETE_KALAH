@@ -1,0 +1,7 @@
+IF
+Global("PI#Kalbattle","AR0606",1)
+THEN RESPONSE #100
+Wait(5)
+CreateCreature("pi#sha2",[666.200],12)
+END
+

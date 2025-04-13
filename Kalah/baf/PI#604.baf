@@ -1,0 +1,11 @@
+IF
+Global("PI#pirn","PI#604",0)
+THEN RESPONSE #100
+SetGlobal("PI#pirn","PI#604",1)
+CreateCreature("PI#AER1",[623.713],2)
+CreateCreature("PI#AER2",[844.780],2)
+CreateCreature("pi#slav1",[660.840],2)
+CreateCreature("PI#boy",[743.283],0)
+CreateCreature("KCHILD2",[680.285],0)
+CreateCreature("KFTOWN01",[236.503],0)
+END

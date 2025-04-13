@@ -1,0 +1,13 @@
+IF
+HP(Myself,1)
+THEN RESPONSE #100
+DestroyAllEquipment()
+Attack(Player1)
+END
+IF
+Global("PI#Princessa","GLOBAL",10)
+THEN RESPONSE #100
+Polymorph(SHADOW) Enemy() Attack(Player1)
+END
+
+

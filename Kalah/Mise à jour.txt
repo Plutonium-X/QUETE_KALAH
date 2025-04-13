@@ -1,0 +1,4 @@
+v3.0
+
+Ajout de la compatibilité vers BG2EE EET.
+Traduction en français.

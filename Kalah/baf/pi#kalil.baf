@@ -1,0 +1,21 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    FadeToColor([30.0],0)
+    Wait(2)
+    CopyGroundPilesTo("PI#607",[569.372])
+    Wait(1)
+    LeaveAreaLUAPanic("PI#607","",[336.533],0)
+    LeaveAreaLUA("PI#607","",[336.533],0)
+    ActionOverride(Player2,LeaveAreaLUA("PI#607","",[388.493],0))
+    ActionOverride(Player3,LeaveAreaLUA("PI#607","",[441.456],0))
+    ActionOverride(Player4,LeaveAreaLUA("PI#607","",[510.444],0))
+    ActionOverride(Player5,LeaveAreaLUA("PI#607","",[572.514],0))
+    ActionOverride(Player6,LeaveAreaLUA("PI#607","",[614.586],0))
+    MultiPlayerSync()
+    SetGlobal("pi#kalil","GLOBAL",1)
+    EndCutSceneMode()
+END
+
