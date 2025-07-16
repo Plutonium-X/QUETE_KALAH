@@ -2,7 +2,7 @@ BACKUP ~Kalah\backup~
 
 AUTHOR ~Picollo~ NO_IF_EVAL_BUG
 
-VERSION ~v2~
+VERSION ~v4~
 
 AUTO_TRA ~Kalah/LANGUAGE/%s~
 
@@ -72,6 +72,13 @@ COMPILE ~Kalah/dlg/PI#NPC.d~
 COMPILE ~Kalah/dlg/PI#KALAH.d~
 COMPILE ~Kalah/dlg/PI#KALAH2.d~
 COMPILE ~Kalah/dlg/PI#KALFIN.d~
+
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+	ADD_JOURNAL @3 @4 @5 @6 @7 @8 @9 @10 @11 @12 @13 @14 USING ~Kalah/Language/%LANGUAGE%/pi#kalfin.tra~
+	ADD_JOURNAL @0 @1 @2 @3 @4 @5 @6 @7 @8 @9 USING ~Kalah/Language/%LANGUAGE%/pi#kalah.tra~
+	ADD_JOURNAL @13 @18 @44 @46 @52 @55 @66 @79 USING ~Kalah/Language/%LANGUAGE%/pi#aer.tra~
+	ADD_JOURNAL @12 @19 USING ~Kalah/Language/%LANGUAGE%/kgenie1.tra~
+END
 
 COPY ~Kalah/are~ ~override~
 
