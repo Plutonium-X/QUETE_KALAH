@@ -1,29 +1,29 @@
 @0    = ~Ah ! Ma bête, vous les avez menés ici comme il le fallait...~ [KALAH02]
 @1    = ~Mais vous... Vous êtes exactement les mêmes.~
 @2    = ~La fin de votre voyage approche. Vous allez souffrir... comme Quayle.~
-@3    = ~Explorer le chapiteau du cirque.
+@3    = ~Enquêter sur le chapiteau du cirque.
 Lorsque nous sommes entrés dans la tente, nous nous sommes retrouvés dans un endroit beaucoup plus grand que la taille de la tente ne le laissait supposer. Nous avons rencontré un Génie qui nous posait des énigmes "pour le divertissement de Kalah". Qui est au juste ce Kalah ? Nous avons mal répondu et le Génie a déchaîné une horde d'ombres sur nous.~
-@4    = ~Explorer le chapiteau du cirque.
+@4    = ~Enquêter sur le chapiteau du cirque.
 Lorsque nous sommes entrés dans la tente, nous nous sommes retrouvés dans un endroit beaucoup plus grand que la taille de la tente ne le laissait supposer. Nous avons rencontré un Génie qui nous posait des énigmes "pour le divertissement de Kalah". Qui est au juste ce Kalah ? Nous avons répondu correctement et le Génie nous a laissé passer.~
-@5    = ~Explorer le chapiteau du cirque.
+@5    = ~Enquêter sur le chapiteau du cirque.
 Dans la pièce suivante, nous avons rencontré deux démons et une femme qui a de nouveau invoqué Kalah. Elle nous a dit que l'un de ces démons était en fait une princesse, et que nous pouvions la sauver. Nous avons accepté de l'aider, et on nous a demandé d'aller chercher la clé que le monstre avait en sa possession.~
-@6    = ~Explorer le chapiteau du cirque.
+@6    = ~Enquêter sur le chapiteau du cirque.
 Dans la pièce suivante, nous avons rencontré deux démons et une femme qui a de nouveau invoqué Kalah. Elle nous a dit que l'un de ces démons était en fait une princesse, et que nous pouvions la sauver. Lorsque nous avons décidé que c'était ridicule, les démons et leur gardien se sont transformés en ombres et nous ont attaqués. J'ai l'impression d'être dans une version tordue d'un des contes que Gorion avait l'habitude de raconter.~
-@7    = ~Explorer le chapiteau du cirque.
+@7    = ~Enquêter sur le chapiteau du cirque.
 Nous avons trouvé la clé (qui n'était pas vraiment une clé), mais ce n'était pas la fin des épreuves. La gardienne nous a demandé de trouver comment reconnaître une vraie princesse. Ce qu'elle n'a pas dit, c'est COMMENT nous devions le découvrir.~
-@8    = ~Explorer le chapiteau du cirque.
+@8    = ~Enquêter sur le chapiteau du cirque.
 Lorsque nous avons décidé que les épreuves organisées par Kalah étaient ridicules et que nous n'avions pas l'intention d'y participer, la gardienne nous a dit qu'à notre mort, nous deviendrions les monstres qui affronteront les prochains aventuriers. Elle s'est alors transformée en ombre et nous a attaqués.~
-@9    = ~Explorer le chapiteau du cirque.
+@9    = ~Enquêter sur le chapiteau du cirque.
 Le monstre qui n'en est pas un est toujours vivant, et les villageois qui nous ont attaqués sont morts. Lorsque la gardienne l'a appris, elle a commencé à vociférer quelque chose à propos de l'inversion du sens du conte de fées, et nous a attaqués.~
-@10   = ~Explorer le chapiteau du cirque.
+@10   = ~Enquêter sur le chapiteau du cirque.
 Le monstre qui n'en est pas un est mort, mais les villageois qui nous ont attaqués sont également morts. Lorsque la gardienne l'a appris, elle s'est mise à crier quelque chose à propos du châtiment qui nous attend, et nous a attaqués.~
-@11   = ~Explorez le chapiteau du cirque.
+@11   = ~Enquêter sur le chapiteau du cirque.
 Nous avons tué le monstre. Malheureusement, il n'avait pas de clé. Peut-être devrions-nous en parler à la gardienne ?~
-@12   = ~Explorez le chapiteau du cirque.
+@12   = ~Enquêter sur le chapiteau du cirque.
 Nous avons rencontré un monstre. Celui-ci, non seulement ne nous a pas attaqués, mais s'est mis à nous supplier d'épargner sa vie, et à nous expliqué qu'il n'était pas un monstre. Nous avons décidé de l'épargner. Tout ça devient de plus en plus bizarre.~
-@13   = ~Explorez le chapiteau du cirque.
+@13   = ~Enquêter sur le chapiteau du cirque.
 Après avoir franchi le niveau suivant, nous avons dû faire face à des hordes d'ombres qui nous attaquaient de tous les côtés. Alors que tout semblait terminé, cinq personnes ont surgi de nulle part. Il s'agissait d'importants citoyens d'Athkatla emprisonnés par Kalah. Ils nous ont promis une grosse récompense si nous tuions Kalah et les libérions. Nous avons accepté.~
-@14   = ~Explorez le chapiteau du cirque.
+@14   = ~Enquêter sur le chapiteau du cirque.
 Après avoir franchi le niveau suivant, nous avons dû faire face à des hordes d'ombres qui nous attaquaient de tous les côtés. Alors que tout semblait terminé, cinq personnes ont surgi de nulle part. Ils prétendaient être des personnes très importantes, mais au cours de la discussion, il s'est avéré qu'il s'agissait d'autres serviteurs de Kalah.~
 @15   = ~Mais vous êtes exactement le même. Vous voulez juste tuer. J'étais pu vous pardonner. Si seulement vous aviez fait preuve de clémence.... De compréhension...~~Mais vous êtes exactement la même. Vous voulez juste tuer. J'étais pu vous pardonner. Si seulement vous aviez fait preuve de clémence.... De compréhension...~
 @16   = ~La fin de votre voyage approche donc. Mais avant cela, je vais encore vous permettre de rencontrer ceux que vous avez sauvés.~
