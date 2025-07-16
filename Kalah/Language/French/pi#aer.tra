@@ -11,13 +11,13 @@
 @10   = ~Grâce à la gentillesse de Kalah, vous n'aurez pas à affronter le démon. Mais un monstre détient la clé, et vous devrez le trouver vous-même.~
 @11   = ~À quoi ressemble cette clé ?~
 @12   = ~Dans ce cas, je prévois de détruire le monstre.~
-@13   = ~Enquêter sur le chapiteau du cirque.
+@13   = ~Enquêter sur le chapiteau du cirque
 Dans la pièce suivante, nous avons rencontré deux démons et une femme qui a de nouveau évoqué Kalah. Elle nous a dit que l'un de ces démons était en fait une princesse, et que nous pouvions la sauver. Nous avons accepté de l'aider, et on nous a demandé d'aller chercher la clé qu'un monstre a en sa possession.~
 @14   = ~Ne remettez pas en cause la décision de Kalah. Sur son ordre, celui qui libérera la princesse de l'emprise du sort pourra la prendre pour épouse~~ Ne remettez pas en cause la décision de Kalah. Sur son ordre, celui qui libérera la princesse de l'emprise du sort pourra la prendre pour épouse. Comme vous êtes une femme, et que vous n'aimez probablement pas épouser des princesses, Kalah vous récompensera en vous donnant une partie de son royaume.~
 @15   = ~Ça ne me parait pas logique. Pourquoi le grand et merveilleux Kalah retiendrait-il cette princesse ici ?~
 @16   = ~D'accord, d'accord, je ne me plains plus....Que dois-je faire ?~
 @17   = ~Assez, je ne vous permettrai pas de salir le nom du Grand Kalah en remettant en cause ses décisions. Il est temps de payer pour vos paroles.~
-@18   = ~Enquêter sur le chapiteau du cirque..
+@18   = ~Enquêter sur le chapiteau du cirque
 Dans la pièce suivante, nous avons rencontré deux démons et une femme qui a de nouveau évoqué Kalah. Elle nous a dit que l'un de ces démons était en fait une princesse, et que nous pouvions la sauver. Lorsque nous avons décidé que c'était ridicule, les démons et leur gardien se sont transformés en ombres et nous ont attaqués. J'ai l'impression d'être dans une version tordue d'un des contes que Gorion avait l'habitude de raconter.~
 @19   = ~Si vous ne pensez pas pouvoir trouver la clé tout seul, ce n'est pas la peine d'essayer. Il vaut mieux retourner d'où vous venez~~Si vous ne pensez pas pouvoir trouver la clé toute seule, ce n'est pas la peine d'essayer. Il vaut mieux retourner d'où vous venez.~
 @20   = ~Attendez, je peux m'en occuper. Je vais tuer ce monstre.~
@@ -44,21 +44,21 @@ Dans la pièce suivante, nous avons rencontré deux démons et une femme qui a de n
 @41   = ~Je pense donc que ce n'est peut-être pas le monstre en question.~
 @42   = ~Kalah a pour but de vous mettre à l'épreuve encore et encore. Allez donc au bout de votre questionnement pour savoir lequel de ces êtres est la princesse.~
 @43   = ~Au royaume de Kalah résident ceux qui savent. Trouvez-les et persuadez-les de vous aider. Puis, une fois que vous aurez acquis des connaissances, revenez ici.~
-@44   = ~Enquêter sur le chapiteau du cirque.
+@44   = ~Enquêter sur le chapiteau du cirque
 Nous avons trouvé la clé (qui n'était pas vraiment une clé), mais ce n'était pas la fin des épreuves. La gardienne nous a demandé de trouver comment reconnaître une vraie princesse. Ce qu'elle n'a pas dit, c'est COMMENT nous devions le découvrir.~
 @45   = ~Vous avez résolu la première tâche. Vous avez privé d'autres braves de la possibilité d'affronter le monstre. Maintenant, vous allez mourir, et quand vous mourrez, vous deviendrez une créature morte-vivante qui servira d'adversaire pour les suivants.~
-@46   = ~Enquêter sur le chapiteau du cirque.
+@46   = ~Enquêter sur le chapiteau du cirque
 Lorsque nous avons décidé que les épreuves organisées par Kalah étaient ridicules et que nous n'avions pas l'intention d'y participer, la gardienne nous a dit qu'à notre mort, nous deviendrions les monstres qui affronteront les prochains aventuriers. Elle s'est alors transformée en ombre et nous a attaqués.~
 @47   = ~Que voulez-vous dire ?~
 @48   = ~La décision vous appartient. Allez vaincre la bête que vous jugez juste, puis revenez ici avec la clé.~
 @49   = ~Je pouvais entendre les cris des innocents venant de loin. Les avez-vous tués ? Ceux qui auraient pu vous apporter Les connaissances nécessaires pour sauver la princesse ont disparu.~
 @50   = ~S'allier à des monstres et assassiner des villageois ? Si vous avez décidé d'inverser le sens des contes de fées, alors il est temps pour la princesse de vaincre le prince, non ?~
 @51   = ~Mais...~
-@52   = ~Enquêter sur le chapiteau du cirque.
+@52   = ~Enquêter sur le chapiteau du cirque
 Le monstre qui n'en est pas un est toujours vivant, et les villageois qui nous ont attaqués sont morts. Lorsque la gardienne l'a découvert, elle s'est mise à vociférer quelque chose à propos de l'inversion du sens des contes de fées, et nous a attaqués.~
 @53   = ~Après tout...~
 @54   = ~Kalah s'est convaincu que la seule chose qui vous intéresse est le meurtre. Cependant, vous ne pouvez pas être autorisé à tuer tout ce qui se trouve dans le domaine de Kalah. Vous serez puni.~~Kalah s'est convaincu que la seule chose qui vous intéresse est le meurtre. Cependant, vous ne pouvez pas être autorisée à tuer tout ce qui se trouve dans le domaine de Kalah. Vous serez punie.~
-@55   = ~Enquêter sur le chapiteau du cirque.
+@55   = ~Enquêter sur le chapiteau du cirque
 Le monstre qui n'en est pas un est mort, mais les villageois qui nous ont attaqués ont également été tués. Quand la gardienne l'a appris, elle s'est mise à vociférer quelque chose à propos du châtiment qui nous attend, et elle nous a attaqués.~
 @56   = ~Vous êtes venu et avez immédiatement commencé à tuer. Kalah ne peut pas vous laisser faire. Vous serez puni.~~Vous êtes venue et avez immédiatement commencé à tuer. Kalah ne peut pas vous laisser faire. Vous serez punie.~
 @57   = ~(Le démon ne semble pas remarquer votre présence. Au lieu de cela, c'est l'être qui vous a accueilli à votre arrivée ici qui s'adresse à vous).~
@@ -70,7 +70,7 @@ Le monstre qui n'en est pas un est mort, mais les villageois qui nous ont attaqu
 @63   = ~Je... Je ne suis pas un monstre...~
 @64   = ~Vous êtes une araignée géante, comme celles que j'ai rencontrées sur mon chemin... Qu'est-ce que vous êtes, sinon un monstre ?~
 @65   = ~Ça suffit. Tu meurs et je récupère la clé, monstre.~
-@66   = ~Enquêter sur le chapiteau du cirque.
+@66   = ~Enquêter sur le chapiteau du cirque
 Nous avons tué le monstre. Malheureusement, il n'avait pas de clé. Peut-être devrions-nous en parler à la gardienne ?~
 @67   = ~Donnez-moi la clé qui est en votre possession et je vous laisserai la vie sauve.~
 @68   = ~Une clé ? Je n'ai pas de clé. Je... Je ne sais pas comment je suis arrivée ici... J'étais au cirque... Je...~
@@ -84,7 +84,7 @@ Nous avons tué le monstre. Malheureusement, il n'avait pas de clé. Peut-être dev
 @76   = ~Vous n'avez aucune preuve pour étayer vos propos.... Comment puis-je savoir que si je vous tourne le dos, vous ne m'attaquerez pas ? Je ne peux pas vous laisser faire.~
 @77   = ~Le seul monstre ici est le responsable de tout ça. Les autres monstres, je ne peux pas les identifier.~
 @78   = ~Eh bien, ça ne m'aide pas beaucoup. Adieu.~
-@79   = ~Enquêter sur le chapiteau du cirque.
+@79   = ~Enquêter sur le chapiteau du cirque
 Nous avons rencontré un monstre. Non seulement le monstre ne nous a pas attaqués, mais il nous a suppliés d'épargner sa vie, et a précisé qu'il n'était pas un monstre. Nous avons décidé de l'épargner. Tout ça devient de plus en plus bizarre.~
 @80   = ~Je pense que je vais voir si je peux trouver une clé sur votre cadavre.~
 @81   = ~C'est... C'est encore vous... Qu'est-ce que vous cherchez ici ?~
