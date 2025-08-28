@@ -16,9 +16,10 @@ ActionOverride(Player2, JumpToPoint([700.590])
 ActionOverride(Player3, JumpToPoint([730.660])
 ActionOverride(Player4, JumpToPoint([640.720])
 ActionOverride(Player5, JumpToPoint([560.700])
-ActionOverride(Player2, JumpToPoint([540.640])
+ActionOverride(Player6, JumpToPoint([540.640])
 MoveViewPoint([730.660],INSTANT)
 SetGlobal("PI#Ka1","GLOBAL",2)
 FadeFromColor([80.0],0)
 EndCutSceneMode()
+
 END
