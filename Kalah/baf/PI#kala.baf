@@ -16,7 +16,7 @@ IF
   Delay(5)
 THEN
   RESPONSE #100
-    Spell([ANYONE],WIZARD_MAGIC_MISSILE)
+    Spell([NOTEVIL],WIZARD_MAGIC_MISSILE)
     SetGlobal("KalahBehavior","LOCALS",2)
 END
 
@@ -28,3 +28,4 @@ THEN
     AttackReevaluate(NearestEnemyOf(Myself),15)
     SetGlobal("KalahBehavior","LOCALS",0)
 END
+
