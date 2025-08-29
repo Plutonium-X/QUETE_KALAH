@@ -2,7 +2,7 @@ BACKUP ~Kalah\backup~
 
 AUTHOR ~Picollo~ NO_IF_EVAL_BUG
 
-VERSION ~v4~
+VERSION ~v4.1~
 
 AUTO_TRA ~Kalah/LANGUAGE/%s~
 
@@ -261,3 +261,4 @@ COPY_EXISTING ~AM0607A4.wav~ ~override~
 COPY_EXISTING ~AM0604B.wav~ ~override~
 
 STRING_SET 47528 @20012
+
