@@ -17,7 +17,11 @@ LANGUAGE
 LANGUAGE 
          ~Francais pour BG2EE/EET~
          ~FrenchEE~
-         ~Kalah/Language/FrenchEE/setup.tra~	 
+         ~Kalah/Language/FrenchEE/setup.tra~
+LANGUAGE 
+         ~Schinese for BG2EE/EET~
+         ~SchineseEE~
+         ~Kalah/Language/SchineseEE/setup.tra~	 
          
 BEGIN @20000
 COPY_EXISTING ~Aerie10.cre~ ~override~
